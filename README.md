@@ -37,5 +37,47 @@ fork, execlp, wait, exit System calls).
 the file contained in it and displays the status of each file contained in it.
 (Use: opendir, readdir, closedir and stat System calls).
 
-4. Write a program to create a file, write some data to it and then read from
-it. (Use: open, write, read and close System Calls).
+Exercise 3
+----------
+Write programs using the I/O system calls of Linux operating system (open, read, write).
+
+Exercise 4
+----------
+Implement CPU scheduling algorithms:
+(i)First Come First Serve
+(ii)Shortest Job First
+(iii)Priority Scheduling
+(iv)Round Robin Scheduling
+
+Exercise 5
+----------
+Implement a chat server using two different processes usimg shared memory.
+
+Exercise 6
+----------
+Implement semaphores in matrix multiplication.
+
+Exercise 7
+----------
+Implement the banker's algorithm for deadlock detection.
+
+Exercise 8
+----------
+Implementation of the memory allocation methods for fixed partitioning:
+(i)First Fit
+(ii)Best Fit
+(iii)Worst Fit
+
+Exercise 9
+----------
+Implement page replacement algorithms:
+(i)First In First Out
+(ii)Least Recently Used
+(iii)Least Frequently Used
+
+Exercise 10
+-----------
+Simulate disk scheduling algorithms:
+(i)First Come First Serve(FCFS)
+(ii)SCAN
+(iii)C-SCAN
