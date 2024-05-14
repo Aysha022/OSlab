@@ -51,7 +51,7 @@ Implement CPU scheduling algorithms:
 
 Exercise 5
 ----------
-Implement a chat server using two different processes usimg shared memory.
+Implement a chat server using two different processes using shared memory.
 
 Exercise 6
 ----------
